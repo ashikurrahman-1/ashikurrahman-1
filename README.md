@@ -13,7 +13,11 @@ Skills: WordPress/NodeJs/ExpressJs/MongoDB / REACT / JS / HTML / CSS
 - 📫 How to reach me: ashikariyan503@gmail.com. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' style="fill: #ffffff;">](https://github.com/ashikurrahman-1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30' style="filter: invert(50%) sepia(100%) saturate(500%) hue-rotate(200deg);">](https://www.linkedin.com/in/arashikofficial/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/ashik.me101)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/arashik.official/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/arashik503)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](codemanashik.xyz)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/arashikofficial)
+[![Facebook](https://img.shields.io/badge/Facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/ashik.me101)
+[![Instagram](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/arashik.official)
+[![Twitter](https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/@arashik503)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikurrahman-1&layout=compact)
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ashikurrahman-1&show_icons=true&theme=catppuccin_latte#gh-dark-mode-only)
