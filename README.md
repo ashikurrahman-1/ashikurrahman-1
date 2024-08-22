@@ -1,9 +1,9 @@
 ![I am a Full Stack Web Developer.](https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/456190130_827824439522924_6222297821036167572_n.png?_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=M4CiDpziFWUQ7kNvgHnhrcz&_nc_ht=scontent.fdac5-1.fna&oh=00_AYAgxMp0ak_uZoNZcFIEaC413V5d91InAZ8y0FBEKQ6OBg&oe=66CD31D7)
 
-## Hi there 👋, my name is Ashik
-#### I am a Full Stack Web Developer.
+# Hi there 👋
 
-This is Ashikur Rahman a Front-End developer with more than several years of experience in the technology of web development—expertise in HTML, CSS, JavaScript, jQuery, Bootstrap, TailwindCSS, React, ExpressJs, MongoDB, NodeJs and WordPress. I am still working with Nokrek IT Institute as a front-end web developer.
+## This is Ashikur Rahman 
+a Full Stack Web developer with more than several years of experience in the technology of web development—expertise in HTML, CSS, JavaScript, jQuery, Bootstrap, TailwindCSS, React, ExpressJs, MongoDB, NodeJs and WordPress. I am still working with Nokrek IT Institute as a front-end web developer.
 
 Skills: WordPress/NodeJs/ExpressJs/MongoDB / REACT / JS / HTML / CSS
 
