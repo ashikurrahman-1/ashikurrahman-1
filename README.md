@@ -3,9 +3,9 @@
 # Hi there 👋 Welcome to My Profile :)
 
 ## This is Ashikur Rahman 
-a Full Stack Web developer with more than several years of experience in the technology of web development—expertise in HTML, CSS, JavaScript, jQuery, Bootstrap, TailwindCSS, React, ExpressJs, MongoDB, NodeJs and WordPress. I am still working with Nokrek IT Institute as a front-end web developer.
+A Full Stack Web developer with more than several years of experience in the technology of web development—expertise in HTML, CSS, JavaScript, jQuery, Bootstrap, TailwindCSS, React, ExpressJs, MongoDB, NodeJs and WordPress. I am still working with Nokrek IT Institute as a front-end web developer.
 
-Skills: WordPress/NodeJs/ExpressJs/MongoDB / REACT / JS / HTML / CSS
+Skills: HTML / CSS / JS / REACT / ExpressJs / MongoDB / NodeJs / WordPress 
 
 - 🔭 I’m currently working on eCommerce Website. 
 - 🌱 I’m currently learning NodeJs. 
